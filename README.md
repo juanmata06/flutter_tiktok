@@ -1,16 +1,10 @@
 # flutter_tiktok
 
-A new Flutter project.
+`flutter clean`
+`flutter pub get`
+`flutter run`
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## All videos must be provided by you
+1. Download all videos you want from [Pexels](https://www.pexels.com/search/videos/vertical/)
+2. Edit videos data in /lib/shared/data/local_video_posts.dart
+3. Reload the application 
